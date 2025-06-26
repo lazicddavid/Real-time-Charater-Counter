@@ -39,3 +39,8 @@ h1 {
   color: aliceblue;
   font-weight: bold;
 }
+
+#remaining {
+  color: lightgreen;
+  font-weight: bold;
+}
