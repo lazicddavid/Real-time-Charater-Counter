@@ -34,3 +34,8 @@ h1 {
   font-size: 18px;
   color: #6b7280;
 }
+
+#total {
+  color: aliceblue;
+  font-weight: bold;
+}
