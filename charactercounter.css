@@ -15,8 +15,8 @@ body {
 
 .container {
   border-radius: 20px;
-  display: flex;
-  justify-content: center;
+  padding: 10px;
+  align-items: center;
   background-color: rgb(202, 234, 232);
   height: 400px;
   width: 600px;
