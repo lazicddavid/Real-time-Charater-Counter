@@ -9,12 +9,16 @@
   <body>
     <div class="container">
       <h1>Real-time Character Counter</h1>
+
       <textarea
         id="textarea"
         placeholder="Please write your text here..."
-        class="textarea"
         maxlength="50"
       ></textarea>
+      <div class="counter">
+        <span>Total Characters: <span id="total">0</span></span>
+        <span>Remaining: </span>
+      </div>
     </div>
     <script src="charactercounter.js"></script>
   </body>
