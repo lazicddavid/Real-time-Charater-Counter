@@ -13,6 +13,11 @@ body {
   align-items: center;
 }
 
+h1 {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 .container {
   border-radius: 20px;
   padding: 10px;
