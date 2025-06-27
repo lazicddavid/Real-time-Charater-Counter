@@ -8,3 +8,6 @@ textarea.addEventListener("input", () => {
   total.textContent = currentLength;
   remaining.textContent = maxLength - currentLength;
 });
+
+
+function()
