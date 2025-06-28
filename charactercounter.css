@@ -46,6 +46,7 @@ textarea {
 }
 
 #total {
+  margin: 20px;
   padding: 2px;
   color: green;
   font-weight: bold;
