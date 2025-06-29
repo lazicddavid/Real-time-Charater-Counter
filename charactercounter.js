@@ -12,3 +12,5 @@ textarea.addEventListener("input", (e) => {
 textarea;
 addEventListener;
 maxLength;
+textarea.total;
+`gi t`;
