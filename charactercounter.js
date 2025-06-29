@@ -14,3 +14,4 @@ addEventListener;
 maxLength;
 textarea.total;
 `gi t`;
+const
