@@ -10,3 +10,4 @@ textarea.addEventListener("input", (e) => {
 });
 
 textarea;
+addEventListener;
