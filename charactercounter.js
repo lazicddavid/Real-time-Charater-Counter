@@ -1,10 +1,12 @@
 const textarea = document.getElementById("textarea");
 const total = document.getElementById("total");
 const remaining = document.getElementById("remaining");
-const maxLength = textarea.maxLength;
+const maxLength = 50;
 
-textarea.addEventListener("input", () => {
-  const currentLength = textarea.value.length;
+textarea.addEventListener("input", (e) => {
+  const currentLength = e.target.value.lenght;
   total.textContent = currentLength;
   remaining.textContent = maxLength - currentLength;
 });
+
+textarea;
